@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=/usr/local/sietium/lib64/
+#export LD_LIBRARY_PATH=/home/sietium/sietium/lib64/
+#export LD_LIBRARY_PATH=/home/sietium/umd_memcpy/gbumd-aarch64-release_all/lib64/
